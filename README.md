@@ -7,7 +7,7 @@ Each implementation contains:
 * Markdown file that contains raw notes from which PDF is generated.
 
 ##### References:
-[Book: Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-[Book: Data Structures and Algorithm Analysis in Java](https://www.amazon.com/Structures-Algorithm-Analysis-Java-Allen/dp/0273752111)
-[Book: Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
+[Book: Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)    
+[Book: Data Structures and Algorithm Analysis in Java](https://www.amazon.com/Structures-Algorithm-Analysis-Java-Allen/dp/0273752111)   
+[Book: Algorithms](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)   
 [Course: CSE326 Data Structures](https://courses.cs.washington.edu/courses/cse326/)
