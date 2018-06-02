@@ -2,7 +2,7 @@
 This repository contains implementations of different data structures in python and their analyses. The implementations are only for academic exercises and do not have any practical usage. You can easily find highly optimized python libraries for all of them. The intend of this repository is to build conceptual and analytical understanding of different data structures.
 
 Each implementation contains:
-* README.md file that shows an example usage of the module.
+* README file that shows an example usage of the module.
 * PDF file that contains the analysis of the data structure.
 * Markdown file that contains raw notes from which PDF is generated.
 
