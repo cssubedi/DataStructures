@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import sys
-sys.path.append("./include/")
+sys.path.append("../include/")
 from undirected_graph_data_structures import Node, Vertex, LinkedList
 from depth_first_search import DFS
 

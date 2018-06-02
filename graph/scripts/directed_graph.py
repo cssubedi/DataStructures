@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sys
-sys.path.append("./include/")
+sys.path.append("../include/")
 from copy import deepcopy
 from directed_graph_data_structures import *
 from depth_first_search import DFS
