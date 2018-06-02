@@ -29,7 +29,7 @@ Nodes in $B_0 = 2^0 = 1$
 Nodes in $B_1 = 2^1 = 2$
 Nodes in $B_h = 2^h$
 
-##### Number of Binomial Trees in a Binomial Queue for a given $N$
+##### Number of Binomial Trees in a Binomial Queue for a given $N$ is $O(logN)$
 Let $k$ be the number of Binomial Trees in a Binomial Queue $B$ containing $N$ elements. When all trees $B_0, B_1, ..., B_h$ are fully occupied we get maximum $k$. Thus,
 
 $$2^0 + 2^1 + 2^2 + ... + 2^h = N$$

@@ -32,4 +32,4 @@ $$r+1 \le log(N+1)$$
 
 $$r = O(logN)$$
 
-This guarantees $O(logN)$ complexity of $merge$ and $insert$
+This guarantees $O(logN)$ complexity of $merge$ and $insert$!
