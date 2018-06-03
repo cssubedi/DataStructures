@@ -19,10 +19,12 @@ Since removing an element from top of the list requires shifting all the remaini
 $\hspace{0.7cm}$ First $\hspace{3.2cm}$ Last
 $\hspace{0.9cm}$ $\downarrow$ $\hspace{3.6cm}$ $\downarrow$
 
+<center>
 
+  | 0   | 1   | 2   | 3   | ...   | N-2   | N-1   |     |     |     | MAX   |
+  | :-: | :-: | :-: | :-: | :---: | :---: | :---: | :-: | :-: | :-: | :---: |
+  | A   | B   | C   | D   | ...   | K     | L     |     |     |     |       |
 
-  | 0 | 1 | 2 | 3 | ... | N-2 | N-1 |   |   |   | MAX |
-  | - | - | - | - | --- | --- | --- | - | - | - | --- |
-  | A | B | C | D | --- | K   | L   |   |   |   |     |
+</center>
 
 Furthermore, since each $dequeue$ generates an available space, we can circularly link $last$ and $first$ variable. If $first  /  last$ has reached end of the list and there is space available at the front, wrap them to 0.
