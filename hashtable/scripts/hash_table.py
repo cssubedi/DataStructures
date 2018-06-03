@@ -9,8 +9,8 @@ class StrategyError(Exception): pass
 
 class HashTable(object):
     """
-    The class instantiates and initializes appropriate hash __table based on
-    input parameters. Following parameters characterizes hash __table:
+    The class instantiates and initializes appropriate hash table based on
+    input parameters. Following parameters characterizes hash table:
         strategy:
             "chaining": Use separate chaining to store multiple data items
                         into same slots
