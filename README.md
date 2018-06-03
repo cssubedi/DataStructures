@@ -1,5 +1,5 @@
 ## DataStructures
-This repository contains implementations of different data structures in python and their analyses. The implementations are only for academic exercises and do not have any practical usage. You can easily find highly optimized python libraries for all of them. The intend of this repository is to build conceptual and analytical understanding of different data structures.
+This repository contains implementations of different data structures in python (version 3.5) and their analyses. The implementations are only for academic exercises and do not have any practical usage. You can easily find highly optimized python libraries for all of them. The intend of this repository is to build conceptual and analytical understanding of different data structures.
 
 Each implementation contains:
 * README file that shows an example usage of the module.
